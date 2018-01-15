@@ -8,7 +8,7 @@ O Cadastro Nacional de Reclamações Fundamentadas, assim, é o cadastro formado
 
 O Sindec integra hoje 26 Procons estaduais e 351 Procons municipais. Como vários desses Procons contam com mais de uma unidade, o Sistema opera em 675 unidades espalhadas por 448 cidades brasileiras. Esses Procons atendem a uma média mensal de 216 mil consumidores.
 
-Fonte do Dataset: http://dados.gov.br/dataset/cadastro-nacional-de-reclamacoes-fundamentadas-procons-sindec1
+Fonte: http://dados.gov.br/dataset/cadastro-nacional-de-reclamacoes-fundamentadas-procons-sindec1
 
 # Visualização dos dados com Tableau
 
