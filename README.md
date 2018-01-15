@@ -12,7 +12,7 @@ Fonte: http://dados.gov.br/dataset/cadastro-nacional-de-reclamacoes-fundamentada
 
 # Visualização dos dados com Tableau
 
-Saneamento Básico foi o segundo assunto mais reclamado no Procon do Mato Grosso e Amazonas
+O Telefone e serviços de Telefonia (Fixa/Celular) estão entre as principais reclamações dos consumidores no Procon.
 
 https://public.tableau.com/profile/caio.andrian#!/vizhome/AnaliseProcon/Histria1
 
