@@ -12,10 +12,12 @@ Fonte do Dataset: http://dados.gov.br/dataset/cadastro-nacional-de-reclamacoes-f
 
 # Visualização dos dados com Tableau
 
-Saneamento Básico foi o segundo assunto mais reclamado no Procon do Mato Grosso e Amazonas 
+Saneamento Básico foi o segundo assunto mais reclamado no Procon do Mato Grosso e Amazonas
+
 https://public.tableau.com/profile/caio.andrian#!/vizhome/AnaliseProcon/Histria1
 
 Dashboard
+
 https://public.tableau.com/profile/caio.andrian#!/vizhome/DashboardAnliseProcon2013-2016/Dashboard
 
 
